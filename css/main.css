@@ -30,16 +30,17 @@ img {
   width: 100%;
 }
 
-figure {
+.figure {
     margin: 0 auto 1.5rem;
     width: 100%;
     position: relative;
 }
 
-figcaption {
+.figcaption {
     color: white;
     font-size: .75rem;
     position: absolute;
     background-color: rgba;(0,0,0,.3)
+    bottom: 0;
  
 }
